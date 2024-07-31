@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="method-versioning-decorator",
+    name="method-versioning",
     version="0.0.1",
     author="Sanghun Lee",
     author_email="nrhys2005@gmail.com",
